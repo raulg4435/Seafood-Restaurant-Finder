@@ -6,7 +6,7 @@ This is a web application that allows the user to enter their city and receive S
 - Python3
 - Pip - python package manager
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/) - Python web framework used to build web applications
-- Database for local testing: [MariaDB](https://mariadb.org/download/) for local testing
+- Database for local testing: [MariaDB](https://mariadb.org/download/)
 - Database on production environment: Amazon Relational Database Service
 - Yelp API is used to find restaurants
 
