@@ -15,4 +15,7 @@ This is a web application that allows the user to enter their city and receive s
 Deployed using Amazon's AWS Elastic Beanstalk service.
 The website is live at:  
 http://seafood-restaurant-finder-dev2.us-west-2.elasticbeanstalk.com/  
+
+*Unfortunately, my Free Tier AWS limit is tied up at the moment on hosting another personal project. Working to host this elsewhere.
+
 ![](Screenshot.png)
